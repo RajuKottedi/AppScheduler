@@ -1,0 +1,11 @@
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\bin\Debug\netcoreapp2.0\AppWithScheduler.deps.json
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\bin\Debug\netcoreapp2.0\AppWithScheduler.runtimeconfig.json
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\bin\Debug\netcoreapp2.0\AppWithScheduler.runtimeconfig.dev.json
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\bin\Debug\netcoreapp2.0\AppWithScheduler.dll
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\bin\Debug\netcoreapp2.0\AppWithScheduler.pdb
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\obj\Debug\netcoreapp2.0\AppWithScheduler.csprojAssemblyReference.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\obj\Debug\netcoreapp2.0\AppWithScheduler.csproj.CoreCompileInputs.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\obj\Debug\netcoreapp2.0\AppWithScheduler.AssemblyInfoInputs.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\obj\Debug\netcoreapp2.0\AppWithScheduler.AssemblyInfo.cs
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\obj\Debug\netcoreapp2.0\AppWithScheduler.dll
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\building-a-scheduled-cache-updater-in-aspnet-core-2\AppWithScheduler\obj\Debug\netcoreapp2.0\AppWithScheduler.pdb
